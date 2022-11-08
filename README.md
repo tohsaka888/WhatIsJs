@@ -17,3 +17,4 @@
 
 - 数据类型
   - [数字类型](/src/types/number) ⭐⭐⭐
+  - [字符串](/src/types/string) ⭐⭐⭐
