@@ -16,4 +16,4 @@
   - [对象-原始值转换](/src/object/object-toprimitive/) ⭐⭐
 
 - 数据类型
-  - [数字类型](/src/types/number)
+  - [数字类型](/src/types/number) ⭐⭐⭐
