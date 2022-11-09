@@ -20,3 +20,4 @@
   - [字符串](/src/types/string) ⭐⭐⭐
   - [数组](/src/types/array) ⭐⭐⭐
   - [Map and Set（映射和集合）](/src/types/map-set) ⭐⭐
+  - [WeakMap and WeakSet（弱映射和弱集合）](/src/types/weakmap-weakset) ⭐
