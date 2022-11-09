@@ -22,3 +22,4 @@
   - [Map and Set（映射和集合）](/src/types/map-set) ⭐⭐
   - [WeakMap and WeakSet（弱映射和弱集合）](/src/types/weakmap-weakset) ⭐
   - [Object.keys，values，entries](/src/types/keys-values-entries) ⭐⭐⭐
+  - [解构赋值](/src/types/destructuring-assignment) ⭐⭐⭐
