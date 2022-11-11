@@ -16,6 +16,7 @@
   - [对象-原始值转换](/src/object/object-toprimitive/) ⭐⭐
 
 - 数据类型
+
   - [数字类型](/src/types/number) ⭐⭐⭐
   - [字符串](/src/types/string) ⭐⭐⭐
   - [数组](/src/types/array) ⭐⭐⭐
@@ -26,3 +27,4 @@
 
 - 函数进阶内容
   - [递归和堆栈](/src/advanced-functions/recursion/) ⭐⭐⭐
+  - [变量的作用域/闭包](/src/advanced-functions/closure) ⭐⭐⭐
