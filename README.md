@@ -28,3 +28,4 @@
 - 函数进阶内容
   - [递归和堆栈](/src/advanced-functions/recursion/) ⭐⭐⭐
   - [变量的作用域/闭包](/src/advanced-functions/closure) ⭐⭐⭐
+  - [老旧的"var"](/src/advanced-functions/var) ⭐⭐
