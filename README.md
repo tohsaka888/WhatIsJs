@@ -29,3 +29,4 @@
   - [递归和堆栈](/src/advanced-functions/recursion/) ⭐⭐⭐
   - [变量的作用域/闭包](/src/advanced-functions/closure) ⭐⭐⭐
   - [老旧的"var"](/src/advanced-functions/var) ⭐⭐
+  - [全局对象](src/advanced-functions/global-object) ⭐⭐
